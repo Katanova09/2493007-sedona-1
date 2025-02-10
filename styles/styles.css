@@ -125,6 +125,7 @@ body {
 .logo-sedona {
   width: 140px;
   height: 70px;
+  object-fit: contain;
 }
 
 .navigation-item {
@@ -796,7 +797,7 @@ body {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   gap: 15px;
-  max-width: 550px;
+  max-width: 480px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
